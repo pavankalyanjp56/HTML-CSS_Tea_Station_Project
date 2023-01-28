@@ -1,1 +1,1 @@
-This Project is build on HTML and CSS as well as same javascript.
+This Project is built on using HTML and CSS as well as some Javascript.
